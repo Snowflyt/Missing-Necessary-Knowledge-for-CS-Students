@@ -10,7 +10,7 @@ Markdown 是一种简单的电子笔记形式，它的后缀名是`.md`。本文
 
 由于 Markdown 的简洁特性，得到了程序员社区的广泛喜爱。许多网站都支持甚至要求使用 Markdown 编写文章或回答，例如 Stack Overflow 的回答默认就是 Markdown 格式。同时，使用`README.md`作为说明，例如一个项目的简要说明甚至文档，也几乎已经成为社区中使用的惯例。
 
-## Jupyter
+## Jupyter Notebook
 
 ![Jupyter Notebook with Python](img/other/jupyter-python.png)
 
