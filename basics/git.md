@@ -1,6 +1,6 @@
 # Git - 你必须掌握的版本控制工具
 
-## Git 简介
+## 简介
 
 相信大家写代码时遇到过这样的问题（如果没有遇到，以后也会遇到的）：
 
@@ -72,9 +72,9 @@ git push
 git pull
 ```
 
-## Github
+## GitHub
 
-![Github  Trending](img/git/github-trending.png)
+![GitHub Trending](img/git/github-trending.png)
 
 [GitHub](https://github.com/)是一个使用 Git 的**代码托管平台（Code Hosting Platform）**。目前，GitHub 是世界上最流行的代码托管平台，你可以在上面找到各种有价值的开源仓库。
 
