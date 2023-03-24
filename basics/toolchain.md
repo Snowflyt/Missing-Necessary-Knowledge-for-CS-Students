@@ -8,9 +8,9 @@
 
 代码格式化工具（Formatter）是负责将代码按照某一标准进行格式化的工具。例如，下面是使用 Python 的代码格式化工具 autopep8 格式化一段糟糕的 Python 代码的示例。
 
-![Before](img/toolchain/autopep8-Before.png)
+![Before](img/toolchain/autopep8-before.png)
 
-![After](img/toolchain/autopep8-After.png)
+![After](img/toolchain/autopep8-after.png)
 
 下面列出一些编程语言常见的代码格式化工具。
 
