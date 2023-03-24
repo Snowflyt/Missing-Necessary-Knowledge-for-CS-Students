@@ -6,7 +6,7 @@
 
 对于英文搜索，一般推荐使用 Google。然而，受限于国内的网络环境，使用必应搜索也是一个不错的选择，并且记得使用必应国际版。
 
-![Google Search Example](img/google-search-example.png)
+![Google Search Example](img/getting-info/google-search-example.png)
 
 上面是一个例子，展示了使用 Google 搜索一个常见编程问题的例子。可以看到，第一个搜索结果来自 Stack Overflow，这是一个知名的英文程序员问答网站，你总是能在上面看到简洁明了且不过时的答案。并且，你可以看到这些回答中许多都包含了对问题背后原理的解释，这对于你理解问题的本质有很大的帮助。
 
@@ -22,8 +22,8 @@
 
 可以看到，阅读文档并没有许多人想象的那么困难。许多现代的文档都为降低阅读门槛和提升阅读体验做了很大的努力，以至于现在的许多文档比起一份详尽冗长的“文档”，其实更接近于一份友好的“入门教程”。在这种情况下，如果文档已经很棒了，那么阅读文档通常就足够了，去阅读他人基于文档加工的二三手信息入门，反而不是个理智的选择。
 
-![React Documentation](img/doc-react.png)
+![React Documentation](img/getting-info/doc-react.png)
 
 而下图则展示了 Java 后端框架 Spring 的官方文档。该文档比起 React 这样的前端框架的文档要更枯燥与逊色一些，但也包含“Getting Started”部分，以指导读者快速入门 Spring 框架的使用。
 
-![Spring Documentation](img/doc-spring.png)
+![Spring Documentation](img/getting-info/doc-spring.png)
