@@ -9,7 +9,7 @@
   - [安装](basics/git.md#安装)
   - [基本命令](basics/git.md#基本命令)
   - [Git Commit Template](basics/git.md#git-commit-template)
-  - [GitHub](basics/git#github)
+  - [GitHub](basics/git.md#github)
 - [Vim](basics/vim.md)
   - [简介](basics/vim.md)
   - [安装](basics/vim.md#安装)
