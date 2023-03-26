@@ -6,4 +6,4 @@
 
 下面是**本部分**的目录，如果你需要查看全书目录，请访问根目录下的`SUMMARY.md`文件。
 
-- [Scoop](scoop.md)
+- [Scoop](scoop/README.md)

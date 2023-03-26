@@ -44,4 +44,4 @@
 
 ## 附：一些常见工具的使用
 
-- [Scoop](tools/scoop.md)
+- [Scoop](tools/scoop/README.md)
