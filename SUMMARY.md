@@ -4,13 +4,12 @@
 
 ## 基础知识
 
-### Git
-
-- [简介](basics/git/README.md)
-- [安装](basics/git/installation.md)
-- [基本命令](basics/git/basic-commands.md)
-- [Git Commit Template](basics/git/git-commit-template.md)
-- [GitHub](basics/git/github.md)
+- Git
+  - [简介](basics/git/README.md)
+  - [安装](basics/git/installation.md)
+  - [基本命令](basics/git/basic-commands.md)
+  - [Git Commit Template](basics/git/git-commit-template.md)
+  - [GitHub](basics/git/github.md)
 
 ### Vim
 
