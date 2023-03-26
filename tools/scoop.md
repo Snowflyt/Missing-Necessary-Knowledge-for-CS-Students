@@ -10,7 +10,7 @@
 
 那么 Windows 下有没有包管理器呢？当然是有的，而且比很多 Linux 下的包管理器还好用，它就是 Scoop。这是它的[官网](https://scoop.sh/)
 
-![Scoop Official Website](img/scoop.png)
+![Scoop 官方网站](img/scoop.png)
 
 我个人建议以管理员身份安装，并且将它默认的安装文件夹改到 C:\\Scoop\\，这样会方便管理一些。以管理员身份打开 Powershell，输入以下命令
 

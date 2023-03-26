@@ -6,42 +6,63 @@
 
 下面是**本部分**的目录，如果你需要查看全书目录，请访问根目录下的`SUMMARY.md`文件。
 
-- [Git](git.md)
-  - [简介](git.md#简介)
-  - [安装](git.md#安装)
-  - [基本命令](git.md#基本命令)
-  - [Git Commit Template](git.md#git-commit-template)
-  - [GitHub](git.md#github)
-- [Vim](vim.md)
-  - [简介](vim.md)
-  - [安装](vim.md#安装)
-  - [教程](vim.md#教程)
-- [学会获取信息](getting-info.md)
-  - [学会使用英文搜索信息](getting-info.md#学会使用英文搜索信息)
-  - [阅读官方文档](getting-info.md#阅读官方文档)
-- [调试](debugging.md)
-  - [断点调试](debugging.md#断点调试)
-  - [网页调试](debugging.md#网页调试)
-- [测试](testing.md)
-- [代码规范](coding-standards.md)
-  - [不同编程语言的代码规范](coding-standards.md#不同编程语言的代码规范)
-  - [注释与文档](coding-standards.md#注释与文档)
-- [工具链](toolchain.md)
-  - [代码格式化工具（Formatter）](toolchain.md#代码格式化工具formatter)
-  - [代码检查工具（Linter）](toolchain.md#代码检查工具linter)
-  - [包管理器与依赖管理工具](toolchain.md#包管理器与依赖管理工具)
-  - [打包工具](toolchain.md#打包工具)
-- [抽象](abstraction.md)
-  - [封装](abstraction.md#封装)
-  - [重构](abstraction.md#重构)
-  - [究竟什么是抽象](abstraction.md#究竟什么是抽象)
-- [编程语言](programming-languages.md)
-  - [编译器与解释器](programming-languages.md#编译器与解释器)
-  - [强类型与弱类型](programming-languages.md#强类型与弱类型)
-  - [静态类型与动态类型](programming-languages.md#静态类型与动态类型)
-  - [面向对象与函数式编程](programming-languages.md#面向对象与函数式编程)
-- [其他](other.md)
-  - [Markdown](other.md#markdown)
-  - [Jupyter Notebook](other.md#jupyter-notebook)
-  - [虚拟机与 Docker](other.md#虚拟机与-docker)
-  - [CI/CD](other.md#cicd)
+## Git
+
+- [简介](git/README.md)
+- [安装](git/installation.md)
+- [基本命令](git/basic-commands.md)
+- [Git Commit Template](git/git-commit-template.md)
+- [GitHub](git/github.md)
+
+## Vim
+
+- [简介](vim/README.md)
+- [安装](vim/installation.md)
+- [教程](vim/tutorial.md)
+
+## 学会获取信息
+
+- [学会使用英文搜索信息](getting-info/search-in-english.md)
+- [阅读官方文档](getting-info/read-official-documents.md)
+
+## 调试
+
+- [断点调试](debugging/breakpoint-debugging.md)
+- [网页调试](debugging/web-debugging.md)
+
+## 测试
+
+- [简介](testing/README.md)
+
+## 代码规范
+
+- [简介](coding-standards/README.md)
+- [不同编程语言的代码规范](coding-standards/coding-standards-in-different-pls.md)
+- [注释与文档](coding-standards/comments-and-docs.md)
+
+## 工具链
+
+- [代码格式化工具（Formatter）](toolchain/formatter.md)
+- [代码检查工具（Linter）](toolchain/linter.md)
+- [包管理器与依赖管理工具](toolchain/manager.md)
+- [打包工具](toolchain/packager.md)
+
+## 抽象
+
+- [封装](abstraction/encapsulation.md)
+- [重构](abstraction/reconstruction.md)
+- [究竟什么是抽象](abstraction/what-exactly-is-abstraction.md)
+
+## 编程语言
+
+- [编译器与解释器](programming-languages/compilers-and-interpreters.md)
+- [强类型与弱类型](programming-languages/strongly-typed-and-weakly-typed.md)
+- [静态类型与动态类型](programming-languages/statically-typed-and-dynamically-typed.md)
+- [面向对象与函数式编程](programming-languages/oop-and-fp.md)
+
+## 其他
+
+- [Markdown](other/markdown.md)
+- [Jupyter Notebook](other/jupyter-notebook.md)
+- [虚拟机与 Docker](other/virtual-machine-and-docker.md)
+- [CI/CD](other/cicd.md)

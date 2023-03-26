@@ -189,7 +189,7 @@ git pull
 
 ### Github
 
-![Github  Trending](img/Github-Trending.png)
+![Github  Trending](legacy/img/Github-Trending.png)
 
 [GitHub](https://github.com/)是一个使用 Git 的**代码托管平台（Code Hosting Platform）**。目前，GitHub 是世界上最流行的代码托管平台，你可以在上面找到各种有价值的开源仓库。
 
@@ -203,13 +203,13 @@ git pull
 
 后来，为了解决这个问题，许多项目制定了对 commit message 格式的要求，甚至许多项目在将代码并入仓库前会检查 commit message 格式是否规范，如果不规范，则拒绝入库。而被大家普遍接受的一种格式是知名前端框架 Angular 仓库所采用的格式。这也被称为 Git Commit Template.
 
-![Angular's Commit History](img/Git-Commit-Template-1.png)
+![Angular's Commit History](legacy/img/Git-Commit-Template-1.png)
 
 可以看到，在上图中，Angular 仓库的 commit message 看起来很清晰直观，这就是 Git Commit Template 带来的价值。
 
 在 VS Code 中，可以通过 Git Commit Template 插件按照模板生成符合规范的 commit message.
 
-![VS Code Extension for Git Commit Template](img/Git-Commit-Template-2.png)
+![VS Code Extension for Git Commit Template](legacy/img/Git-Commit-Template-2.png)
 
 ## Vim
 
@@ -235,7 +235,7 @@ scoop install vim
 vimtutor
 ```
 
-![Vim Tutor](img/vimtutor.png)
+![Vim Tutor](legacy/img/vimtutor.png)
 
 _如果你发现 vimtutor 是英文的，你也可以下载一个[中文版的 vimtutor](https://github.com/HanielF/VimTutor)，并用 Vim 打开它_
 
@@ -251,7 +251,7 @@ vim vimtutor-cn.txt
 
 使用英文进行检索是比使用中文检索要**有效率得多**的方式。这主要是由于中文程序员社区存在大量重复性较高且过时的信息。对于常见的问题，直接将错误信息粘贴到百度或许能够解决问题。但我们总会遇到稍小众一些的问题，并且很多时候中文社区容易找到过时的信息，且没有充分的解释，容易产生误导。因此，学会使用英文检索是必须的。
 
-![Google Search Example](img/Google-Search-Example.png)
+![Google Search Example](legacy/img/Google-Search-Example.png)
 
 这听起来似乎有些难度，但其实做起来很简单。只要你坚持两三天，你很快就会意识到这样做的必要性与意义。
 
@@ -276,17 +276,17 @@ vim vimtutor-cn.txt
 
 可以看到，阅读文档并没有许多人想象的那么困难。许多现代的文档都为降低阅读门槛和提升阅读体验做了很大的努力，以至于现在的许多文档比起一份详尽冗长的“文档”，其实更接近于一份友好的“入门教程”。在这种情况下，如果文档已经很棒了，那么阅读文档通常就足够了，去阅读他人基于文档加工的二三手信息入门，反而不是个理智的选择。
 
-![React Documentation](img/Doc-React.png)
+![React Documentation](legacy/img/Doc-React.png)
 
 而下图则展示了 Java 后端框架 Spring 的官方文档。该文档比起 React 这样的前端框架的文档要更枯燥与逊色一些，但也包含“Getting Started”部分，以指导读者快速入门 Spring 框架的使用。
 
-![Spring Documentation](img/Doc-Spring.png)
+![Spring Documentation](legacy/img/Doc-Spring.png)
 
 ### 断点调试
 
 在多数情况下，你应该使用断点调试，而不是简单地向终端打印一堆调试信息。
 
-![Python Debugging Breakpoints in VS Code](img/Debugging-Python.png)
+![Python Debugging Breakpoints in VS Code](legacy/img/Debugging-Python.png)
 
 上图展示了使用 VS Code 在 Python 中断点调试的一般流程：在行号前面单击打上“断点”，然后以调试模式运行程序（在 VS Code 中默认是 F5），就可以看到代码在运行到断点前被中断了，这时你可以看到当前程序中保存的变量、栈帧等信息——你不需要使用`print`语句，并且能够看到调试信息更加友好的表示形式。在调试模式运行的过程中，你可以看到编辑器/IDE 中会出现一个工具条。
 
@@ -300,15 +300,15 @@ vim vimtutor-cn.txt
 
 点击键盘上的 F12，在“元素”页，你可以轻松调试网页中的元素和样式表，快速定位某一 HTML 网页元素。图中用红框圈出来的按钮点击后可以选中网页中某一个具体的元素，以获取它的详细信息。
 
-![[Debugging Elements in Browser](img/Debugging-Browser-Elements.png)
+![[Debugging Elements in Browser](legacy/img/Debugging-Browser-Elements.png)
 
 在“网络”页，你可以查看所有网络请求的负载、相应与性能情况。实际上，很多爬虫也是这样工作的，相比于直接从网页上获取信息，这些爬虫开发者会查看网页与服务器之间的网络请求，并通过直接调用这些请求来获取信息。并且，对于一些保密性做得不太好的网站，其实你有时候也可以在这里看到一些本不该被你看到的信息。
 
-![Debugging Networking in Browser](img/Debugging-Browser-Network.png)
+![Debugging Networking in Browser](legacy/img/Debugging-Browser-Network.png)
 
 而如果网页使用了特定的网页框架，如 React 或 Vue 等进行开发，通常推荐安装相应的浏览器插件以便调试。
 
-![Debugging React in Browser](img/Debugging-Browser-React.png)
+![Debugging React in Browser](legacy/img/Debugging-Browser-React.png)
 
 ### 测试
 
@@ -369,9 +369,9 @@ Pytest 这样的测试风格是一种通用的测试风格，在 Java 最常用�
 
 代码格式化工具（Formatter）负责将代码按照某一标准进行格式化。下面是使用 autopep8 格式化一段糟糕的 Python 代码的示例。
 
-![Before](img/autopep8-Before.png)
+![Before](legacy/img/autopep8-Before.png)
 
-![After](img/autopep8-After.png)
+![After](legacy/img/autopep8-After.png)
 
 下面列出一些编程语言常见的代码格式化工具。
 
@@ -391,11 +391,11 @@ Linter 是一个不太容易翻译的词。简单来说，这是一种帮助你�
 
 例如，在下面的 JavaScript 框架 React 的代码中，SonarLint 发现我们在 JSX 中传递节点数组时使用了数组下标作为 key，而这是不建议的做法。你可以打开 SonarLint 对这个规则的具体描述，看到为什么不建议这么做，与你可以怎么做来修正这段代码。
 
-![Sonarlint Example](img/Sonarlint-Example.png)
+![Sonarlint Example](legacy/img/Sonarlint-Example.png)
 
 在下面这段 C++代码中，使用了 Clang-Tidy 作为 Linter，可以看到，我们在 main 函数中使用`new`在堆中分配了一个对象`h`，但却没有及时使用`delete`释放它。Clang-Tidy 检测到了这个问题，提示我们这里存在潜在的内存泄露风险，建议我们在使用`h`之后为其释放内存。
 
-![Clang-Tidy Example](img/Clang-Tidy-Example.png)
+![Clang-Tidy Example](legacy/img/Clang-Tidy-Example.png)
 
 下面列出一些编程语言常见的 Linter 工具。
 
@@ -971,7 +971,7 @@ public Map<String, Integer> wordFreq(String words) {
 
 Markdown 是一种简单的电子笔记形式，它的后缀名是`.md`。本文也是使用 Markdown 编写的。它的语法非常简单，其中基本的一些语法一张图就足以概括：
 
-![Markdown Syntax](img/Markdown-Syntax.png)
+![Markdown Syntax](legacy/img/Markdown-Syntax.png)
 
 在程序员社区，Markdown 是必须要掌握的。当然，它掌握起来也非常简单，十分钟就可上手。
 
@@ -979,7 +979,7 @@ Markdown 是一种简单的电子笔记形式，它的后缀名是`.md`。本文
 
 ### Jupyter
 
-![Jupyter Notebook with Python](img/Jupyter-Python.png)
+![Jupyter Notebook with Python](legacy/img/Jupyter-Python.png)
 
 Jupyter Notebook 是一种常用的**交互式编程**方式，尤其常见于数据科学领域。在 Jupyter Notebook 中，我们可以将代码段放在不同的单元格中，并且以任意顺序执行这些代码，同时看到（并保存）每一个单元格的输出结果。这种自由且方便的形式很受数据科学家喜爱。上图演示了 VS Code 中 Jupyter 的使用。
 
@@ -989,9 +989,9 @@ Jupyter Notebook 是一种常用的**交互式编程**方式，尤其常见于�
 
 下面简单演示了将 Jupyter 与 R 语言一起使用。
 
-![Jupyter Notebook with R (1)](img/Jupyter-R-1.png)
+![Jupyter Notebook with R (1)](legacy/img/Jupyter-R-1.png)
 
-![Jupyter Notebook with R (2)](img/Jupyter-R-2.png)
+![Jupyter Notebook with R (2)](legacy/img/Jupyter-R-2.png)
 
 ### 虚拟机与 Docker
 
