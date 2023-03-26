@@ -6,14 +6,12 @@
 
 下面是**本部分**的目录，如果你需要查看全书目录，请访问根目录下的`SUMMARY.md`文件。
 
-- Git
-  - [简介](basics/git/README.md)
+- [Git](basics/git/README.md)
   - [安装](basics/git/installation.md)
   - [基本命令](basics/git/basic-commands.md)
   - [Git Commit Template](basics/git/git-commit-template.md)
   - [GitHub](basics/git/github.md)
-- Vim
-  - [简介](basics/vim/README.md)
+- [Vim](basics/vim/README.md)
   - [安装](basics/vim/installation.md)
   - [教程](basics/vim/tutorial.md)
 - 学会获取信息
@@ -23,8 +21,7 @@
   - [断点调试](basics/debugging/breakpoint-debugging.md)
   - [网页调试](basics/debugging/web-debugging.md)
 - [测试](basics/testing/README.md)
-- 代码规范
-  - [简介](basics/coding-standards/README.md)
+- [代码规范](basics/coding-standards/README.md)
   - [不同编程语言的代码规范](basics/coding-standards/coding-standards-in-different-pls.md)
   - [注释与文档](basics/coding-standards/comments-and-docs.md)
 - 工具链
